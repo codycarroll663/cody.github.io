@@ -1,0 +1,14 @@
+body{
+background-color: grey;
+}
+
+h1{
+   color: #f73718;
+   align-content: center;
+}
+
+li{
+font-size: 30px;
+padding: 10%;
+list-style: none;
+}
